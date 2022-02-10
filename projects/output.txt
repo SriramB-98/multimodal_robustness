@@ -1,0 +1,3 @@
+Torch version: 1.7.1
+1000 classes, 4 templates
+name 'name' is not defined
